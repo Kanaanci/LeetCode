@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eff8f03d-3b31-4675-ab10-2cc750b4616f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WjUgCuMfjFI0KzkKiV26bG9vQo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainController" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eff8f03d-3b31-4675-ab10-2cc750b4616f" name="Default Changelist" comment="" />
+      <created>1579662606967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579662606967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579662919519">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1579662919519" />
+    <state x="577" y="327" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579662895752">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="577" y="327" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1579662895752" />
+  </component>
+</project>
