@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eff8f03d-3b31-4675-ab10-2cc750b4616f" name="Default Changelist" comment="" />
+    <list default="true" id="eff8f03d-3b31-4675-ab10-2cc750b4616f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/easy_problems/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/medium_problems/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WjUgCuMfjFI0KzkKiV26bG9vQo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
@@ -47,5 +67,25 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="577" y="327" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1579662895752" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1580003961294">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580003961294" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1580003961292">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580003961292" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1580003961291">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580003961291" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1580003961293">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580003961293" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1580000714666">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1580000714666" />
   </component>
 </project>
