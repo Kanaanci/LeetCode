@@ -5,15 +5,15 @@ import com.leetcode.medium_problems.FirstLastPos;
 
 public class MainController {
     public static void main(String[] args){
-        //Easy
+        /****************************Easy****************************/
 //        System.out.println(RemoveDupArray.removeDups());
 //        TwoSum.findTwoSum();
 
-        //Medium
-//        System.out.println(AddTwoNumbers.)
-        FirstLastPos.searchRange();
+        /****************************Medium****************************/
+//        System.out.println(AddTwoNumbers.) /*NC*/
+//        FirstLastPos.searchRange(); /*NC*/
 
-        //Hard
+        /****************************Hard****************************/
 
     }
 }
